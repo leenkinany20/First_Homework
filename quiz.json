@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {"question": "The HTTP protocol is used for transferring web pages.", "answer": "True"},
+        {"question": "TCP stands for Transmission Control Protocol.", "answer": "True"},
+        {"question": "The default port for HTTPS is 21.", "answer": "False"},
+        {"question": "A router operates at the Network Layer of the OSI model.", "answer": "True"},
+        {"question": "An IP address is a unique identifier assigned to each device on a network.", "answer": "True"},
+        {"question": "FTP stands for File Transfer Protocol.", "answer": "True"},
+        {"question": "The maximum length of a CAT5 Ethernet cable is 100 meters.", "answer": "True"},
+        {"question": "DNS translates domain names to IP addresses.", "answer": "True"},
+        {"question": "The default port for FTP is 80.", "answer": "False"},
+        {"question": "IPv6 addresses are 128 bits long.", "answer": "True"},
+        {"question": "SMTP is used for sending emails.", "answer": "True"},
+        {"question": "MAC addresses are used at the Data Link Layer.", "answer": "True"},
+        {"question": "A switch is a Layer 3 device.", "answer": "False"},
+        {"question": "ICMP is used for network diagnostics.", "answer": "True"},
+        {"question": "The loopback IP address is 127.0.0.1.", "answer": "True"},
+        {"question": "The default subnet mask for a Class C network is 255.0.0.0.", "answer": "False"},
+        {"question": "POP3 is used to retrieve emails from a server.", "answer": "True"},
+        {"question": "An SSID is used to identify a Wi-Fi network.", "answer": "True"},
+        {"question": "The OSI model has 7 layers.", "answer": "True"},
+        {"question": "ARP stands for Address Resolution Protocol.", "answer": "True"}
+    ]
+}
